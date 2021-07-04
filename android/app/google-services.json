@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896477090150",
+    "project_id": "myoil-mobile",
+    "storage_bucket": "myoil-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896477090150:android:f7a12b2f2e45320a40f8a7",
+        "android_client_info": {
+          "package_name": "com.oilmobile.oil_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896477090150-7sa1vf0b337o9n3pi0ds5c0v6kt5csvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsBKtAdFdGmT5rdQ_SS6Z21o2YyRFUyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896477090150-7sa1vf0b337o9n3pi0ds5c0v6kt5csvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
